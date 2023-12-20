@@ -2,7 +2,7 @@
 function interactiveSearch(){
 	let divContainer=document.getElementById("searchContainer");
 	// let cssClassName=
-	divContainer.classList.toggle("search");
+	divContainer.classList.toggle("active");
 	var searchInput = document.getElementById('searchInput');
     searchInput.focus();
 }
