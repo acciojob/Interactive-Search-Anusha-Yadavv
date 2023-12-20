@@ -1,4 +1,11 @@
 /*  your css code here. If applicable */
 body{
 	background:#7f03fc;
+	display:flex;
+	justify-content:center;
+/* 	align-items:center; */
+	margin-top:50%;
+}
+.search{
+	
 }
