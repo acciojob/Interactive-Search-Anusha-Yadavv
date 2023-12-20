@@ -12,7 +12,7 @@ body{
 	align-items:center;
 	height:50px;
 	width:40%;
-	background:greenyellow;
+	background:white;
 	
 }
 .input{
@@ -35,5 +35,6 @@ body{
 	
 }
 .search.active .input {
-    width: 200px; /* Change the width as needed */
+    width: 250px; 
+	background:#f2e991;
 }
