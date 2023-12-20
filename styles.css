@@ -7,6 +7,8 @@ body{
 	margin-top:50%;
 }
 .search{
+	display:flex;
+	justify-content:space-between;
 	height:50px;
 	width:40%;
 	background:white;
@@ -14,9 +16,14 @@ body{
 }
 .input{
 	padding:10px;
+	border-style:none;
 }
 .btn{
 /* 	height:20px; */
 	background:white;
 	border-style:none;
+}
+.btn svg{
+	height:40px;
+	
 }
