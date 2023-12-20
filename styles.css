@@ -16,15 +16,21 @@ body{
 	
 }
 .input{
-	padding:10px;
+/* 	padding:10px; */
 	border-style:none;
+	margin-left:20px;
+	font-size:15px;
+	font-weight:600;
 }
 .btn{
 /* 	height:20px; */
 	background:white;
 	border-style:none;
+	cursor:pointer;
+/* 	width:50px; */
 }
 .btn svg{
 	height:40px;
+	width:30px;
 	
 }
