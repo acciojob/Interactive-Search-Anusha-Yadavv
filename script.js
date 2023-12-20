@@ -3,6 +3,6 @@ function interactiveSearch(){
 	let divContainer=document.getElementById("searchContainer");
 	// let cssClassName=
 	divContainer.classList.toggle("search");
-	var searchInput = document.getElementsByClassName('input');
+	var searchInput = document.getElementById('searchInput');
     searchInput.focus();
 }
